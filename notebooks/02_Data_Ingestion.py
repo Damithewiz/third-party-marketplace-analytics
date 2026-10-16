@@ -21,7 +21,7 @@ import os
 import json
 
 KAGGLE_USERNAME = "akinluadamilola"
-KAGGLE_KEY = "4376e4d6646dce8c3971b55a8fe15c2113"
+KAGGLE_KEY = "********************************"
 
 os.environ["KAGGLE_USERNAME"] = KAGGLE_USERNAME
 os.environ["KAGGLE_KEY"] = KAGGLE_KEY
